@@ -32,7 +32,7 @@ download pretain detection model
     $ bash get_coco_dataset.sh
 
 ##### down load reid data
-download reid data from "https://docs.google.com/forms/d/e/1FAIpQLSfueNRWgRp3Hui2HdnqHGbpdLUgSn-W8QxpZF0flcjNnvLZ1w/viewform?formkey=dHRkMkFVSUFvbTJIRkRDLWRwZWpONnc6MA#gid=0" and put it in ./data/reid/cuhk03/raw
+download reid data from [website](https://docs.google.com/forms/d/e/1FAIpQLSfueNRWgRp3Hui2HdnqHGbpdLUgSn-W8QxpZF0flcjNnvLZ1w/viewform?formkey=dHRkMkFVSUFvbTJIRkRDLWRwZWpONnc6MA#gid=0) and put it in ./data/reid/cuhk03/raw
 
 ##### prepare test datasets: zhijiang MOT challenge level2, put origin video b1...b5 in ./data/zj_test/level2_video/
     $ cd ./data/zj_test
