@@ -41,12 +41,12 @@ download reid data from [website](https://docs.google.com/forms/d/e/1FAIpQLSfueN
 
 ## training
 #### the reid and detection model are saved in model/reid and model/yolo3/ respectively
-cd experiments/
+    $ cd experiments/
     $ bash run_training.sh
 
 ## test
 #### the results of detection and tracking are saved in result/level2/det and result/level2/trk respectively
-cd experiments/
+    $ cd experiments/
     $ bash run_test.sh
 
 ## Thanks to some open projects
